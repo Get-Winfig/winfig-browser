@@ -1,0 +1,144 @@
+{
+    "policies": {
+        "NewTabPage": true,
+        "DisplayBookmarksToolbar": "always",
+        "AppAutoUpdate": false,
+        "BackgroundAppUpdate": false,
+        "DisableFirefoxAccounts": true,
+        "DisableFirefoxScreenshots": true,
+        "DisableTelemetry": true,
+        "ExtensionUpdate": true,
+        "ShowHomeButton": true,
+        "PasswordManagerEnabled": false,
+        "ExtensionSettings": {
+            "uBlock0@raymondhill.net": {
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi",
+                "default_area": "navbar"
+            },
+            "wappalyzer@crunchlabz.com": {
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/wappalyzer/latest.xpi",
+                "default_area": "navbar"
+            },
+            "addon@darkreader.org": {
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/darkreader/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{7a7a4a92-a2a0-41d1-9fd7-1e92480d612d}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/styl-us/latest.xpi"
+            },
+            "{bbda042b-c350-4e85-8d81-bda0d6fbda81}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/github-web-ide/latest.xpi"
+            },
+            "{72bd91c9-3dc5-40a8-9b10-dec633c0873f}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/enhanced-github/latest.xpi"
+            },
+            "{c3c10168-4186-445c-9c5b-63f12b8e2c87}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/cookie-editor/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{a6c4a591-f1b2-4f03-b3ff-767e5bedf4e7}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/user-agent-string-switcher/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{bbb880ce-43c9-47ae-b746-c3e0096c5b76}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/catppuccin-web-file-icons/latest.xpi"
+            },
+            "{c45c406e-ab73-11d8-be73-000a95be3b12}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/web-developer/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{74145f27-f039-47ce-a470-a662b129930a}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/clearurls/latest.xpi"
+            },
+            "{b3e677f4-1150-4387-8629-da738260a48e}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/smart-https-revived/latest.xpi"
+            },
+            "similar-repositories-extension@mub.lol":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/simrepo/latest.xpi"
+            },
+            "{7efbd09d-90ad-47fa-b91a-08c472bdf566}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/fake-filler/latest.xpi"
+            },
+            "foxyproxy@eric.h.jung":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/foxyproxy-standard/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{b588f8ac-dbdf-4397-bcd7-3d29be2f17d7}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/github-code-folding/latest.xpi"
+            },
+            "jaswantk9177@gmail.com":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/json-viewer-pro/latest.xpi"
+            },
+            "SaveImageAsType@d7om.dev":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/siat/latest.xpi"
+            },
+            "jid1-D7momAzRw417Ag@jetpack":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/wikiwand-wikipedia-modernized/latest.xpi"
+            },
+            "info@virustotal.com":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/vt4browsers/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{c668188a-f573-40af-a971-5f0e73a8d432}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/gitzip-for-github/latest.xpi"
+            },
+            "{41f9e51d-35e4-4b29-af66-422ff81c8b41}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/disable-javascript/latest.xpi",
+                "default_area": "navbar"
+            },
+            "extension@one-tab.com":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/onetab/latest.xpi",
+                "default_area": "navbar"
+            },
+            "wayback_machine@mozilla.org":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/wayback-machine_new/latest.xpi",
+                "default_area": "navbar"
+            },
+            "{e999018e-c0dc-49b0-be98-868ab8ea33bd}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/chatgpt-as-pdf/latest.xpi"
+            },
+            "{b13d04e3-41db-48b3-842c-8079df93c7ad}":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/web-chatgpt/latest.xpi"
+            },
+            "cjiggdeafkdppmdmlcdpfigbalcgbkpg@fancydino.com":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/superpower-chatgpt/latest.xpi"
+            },
+            "promptstash@croutoncreations.com":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/prompt-stash/latest.xpi"
+            },
+            "ai-prompts@flesler.com":{
+                "installation_mode": "force_installed",
+                "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ai-prompts/latest.xpi",
+                "default_area": "navbar"
+            }
+        }
+    }
+}
